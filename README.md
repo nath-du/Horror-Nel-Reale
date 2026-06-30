@@ -1,7 +1,7 @@
 
 
 ### 🩸 Horror nel reale
-La mia tesina di Seconda Media, anno 2021/2022. Interamente scritta e presentata in HTML/CSS/JS.
+La mia tesina di Seconda Media, anno 2022/2023. Interamente scritta in HTML/CSS/JS.
 Re-post su github su richiesta della scuola, che vuole avere un backup
 
 ---
